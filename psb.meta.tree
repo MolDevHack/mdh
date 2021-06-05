@@ -1,1 +1,2 @@
+pack ui git \https://github.com/MolDevHack/psb_ui.git
 pack portal git \https://github.com/MolDevHack/psb_portal.git
