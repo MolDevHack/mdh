@@ -1,3 +1,3 @@
-# $mol dev hack
+# $psb namespace
 
-DevHack powered by $mol
+Links to inner repos at [psb.meta.tree](psb.meta.tree).
